@@ -1,0 +1,10 @@
+Python 200
+CanYouBeatMe 150
+S1mple 100
+TheFourth 90
+BlaBlaBla 79
+Master 60
+Coder 45
+ReachMyLevel 30
+DontWorry 28
+NOOB 10

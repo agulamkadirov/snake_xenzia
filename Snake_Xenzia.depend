@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1579009592 source:d:\cpp\snake_xenzia\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<ctime>
+	<string.h>
+
+1579114230 source:d:\cpp\snake_xenzia_optimal\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<ctime>
+	<string.h>
+
+1584557009 source:e:\cpp\snake_xenzia_optimal\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<ctime>
+	<string.h>
+	<fstream>
+	<cmath>
+
